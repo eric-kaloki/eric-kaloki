@@ -3,9 +3,9 @@
 Welcome to my digital workspace. I'm a full-stack developer, systems architect, and co-founder on a mission to build high-impact tech solutions across Africa and beyond.
 
 ## 🚀 Who I Am
-- 🎓 Final-year Computer Science student
-- 🧠 COO & Admin at a startup building a **Sales, Inventory & Analytics System**
-- ⚙️ Founder of [Trancends Corp](https://github.com/eric-kaloki/trancends-corp) – helping non-coders bring their ideas to life
+- 🎓 Final-year Information Technology student
+- 🧠 COO & Admin at a startup building a **SalesA - Sales, Inventory & Analytics System**
+- ⚙️ Founder of [Trancends Corp](https://transcends-corp.tech) – a crowdfunding platform for organizations and individual to reaise the funds for all causes
 - 🌍 Solving real-world problems through digital addressing, secure messaging, and intelligent co-founder matching
 
 ## 💼 Current Focus
