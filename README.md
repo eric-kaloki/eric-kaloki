@@ -1,36 +1,45 @@
-# 👋 Hi, I'm Eric Kaloki
+# 👋 Hey, I'm Eric Kaloki
 
-Welcome to my GitHub space! I'm a passionate full-stack developer, startup builder, and problem-solver driven by purpose and impact.
+Welcome to my digital workspace. I'm a full-stack developer, systems architect, and co-founder on a mission to build high-impact tech solutions across Africa and beyond.
 
-## 🚀 About Me
+## 🚀 Who I Am
 - 🎓 Final-year Computer Science student
-- 🛠 Building [Trancends Corp](https://github.com/eric-kaloki/trancends-corp) – a platform for non-coders to launch their ideas
-- 🧠 Working on: AI-powered dev tools, digital addressing systems, secure messaging apps, and co-founder matchmaking platforms
-- 🌍 Focused on solving real-world problems in Africa through tech
+- 🧠 COO & Admin at a startup building a **Sales, Inventory & Analytics System**
+- ⚙️ Founder of [Trancends Corp](https://github.com/eric-kaloki/trancends-corp) – helping non-coders bring their ideas to life
+- 🌍 Solving real-world problems through digital addressing, secure messaging, and intelligent co-founder matching
 
-## 🔧 Tech Stack
-- **Languages:** JavaScript, TypeScript, Dart, SQL
-- **Frontend:** React, Flutter, Tailwind CSS
-- **Backend:** Node.js, Express, Supabase, MySQL, MongoDB
-- **Tools:** Git, Postman, Android Studio, VS Code, Figma
-- **Other:** AI integration, Real-time chat, Payment APIs (MPESA Daraja)
+## 💼 Current Focus
+- ✅ Leading backend, architecture & operations for a startup's full sales and inventory system
+- 🧠 Prototyping AI-powered tools for code generation and visual development
+- 🌐 Building scalable platforms using Supabase, Flutter, Node.js, and Express
 
-## 📈 Current Projects
-- 💬 End-to-end encrypted messaging app (Flutter + Node.js)
-- 🧩 CoFounder Connect – match founders with co-founders
-- 📍 Kenya’s Digital Addressing System – redefining logistics & e-commerce
-- 🎨 Visual web builder (Figma-like) with AI generation
+## 🛠 Tech Stack
+**Languages:** JavaScript, TypeScript, Dart, SQL  
+**Frontend:** React, Flutter, Tailwind CSS  
+**Backend:** Node.js, Express, Supabase, MySQL, MongoDB  
+**Other Tools:** Git, Postman, Figma, Android Studio, MPESA Daraja API
 
-## 💡 Fun Facts
-- 🧩 I love reverse engineering systems to rebuild them better
-- 🏃 I move fast but think long-term
-- 🧭 On a personal journey of self-discovery and truth
+## 🧠 Mindset
+> “Solve real problems. Empower real people. Ship real products.”
 
-## 📫 Let's Connect!
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eric-kaloki&show_icons=true&theme=radical" alt="Eric's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eric-kaloki&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eric-kaloki&theme=github-compact&area=true" alt="GitHub Contribution Graph"/>
+</p>
+
+## 📫 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/eric-kaloki)
-- 🌐 [Portfolio](https://eric-kaloki.github.io) *(Coming Soon!)*
-- ✉️ kalokieric[at]gmail[dot]com
-
+- 📧 erickkaloki28[at]gmail[dot]com
+- 🌐 [Portfolio](https://erickaloki.live)
 ---
 
-_“Dream it. Build it. Scale it. Then help others do the same.”_
+_Powered by purpose. Focused on impact._
